@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 如實論
+#+DATE: 2015-08-30 20:59:14.701204
+#+PROPERTY: JUAN 0
